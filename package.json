@@ -1,11 +1,19 @@
 {
+<<<<<<< HEAD
   "name": "festival-mawazin-2026",
+=======
+  "name": "my-react-app",
+>>>>>>> a591447 (thsi upadte project)
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "tsc -b && vite build",
+=======
+    "build": "vite build",
+>>>>>>> a591447 (thsi upadte project)
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -15,7 +23,10 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+<<<<<<< HEAD
     "@types/node": "^24.12.2",
+=======
+>>>>>>> a591447 (thsi upadte project)
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
@@ -23,8 +34,11 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.5.0",
+<<<<<<< HEAD
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.2",
+=======
+>>>>>>> a591447 (thsi upadte project)
     "vite": "^8.0.10"
   }
 }
