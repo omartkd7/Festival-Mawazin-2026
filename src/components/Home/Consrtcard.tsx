@@ -15,6 +15,8 @@ export default function Consrtcard (){
 
              <h2 className=" text-amber-50 text-bold border-4 border-amber-400 text-7xl mt-1 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 ">Festival Mawazin 2026</h2>
 
+             <button className="bg-amber-400 text-white px-25 py-5 rounded-3xl hover:bg-blue-600 flex  " onClick={()=> alert("TEST")}>Click me</button>
+
 
             </div>
 
