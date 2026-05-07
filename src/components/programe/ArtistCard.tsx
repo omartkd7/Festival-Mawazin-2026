@@ -22,7 +22,7 @@ export default function ArtistCard (){
                   <div id="cart 1">
                     <img src={image1} className="image1 "></img>
                     <h3 className="text-lg font-semibold mb-2 text-center">ElGrandeToto</h3>
-                    <p className="text-sm text-gray-500">Description here</p>
+                    <p className=" text-black text-30 text-center ">Description here</p>
 
                   </div>
 
@@ -30,7 +30,7 @@ export default function ArtistCard (){
 
                     <img src={image2} className="image2"></img>
                     <h3 className="text-lg font-semibold mb-2 text-center">l'Morphine</h3>
-                    <p className="text-sm text-gray-500">Description here</p>
+                    <p className="  text-black text-30 text-center ">Description here</p>
 
                   </div>
 
@@ -38,7 +38,7 @@ export default function ArtistCard (){
 
                     <img src={image3} className="iamge3"></img>
                     <h3 className="text-lg font-semibold mb-2 text-center">Pause Flow</h3>
-                    <p className="text-sm text-gray-500">Description here</p>
+                    <p className=" text-black text-30 text-center ">Description here</p>
 
                   </div>
 
@@ -46,7 +46,7 @@ export default function ArtistCard (){
 
                     <img src={image4} className="image4"></img>
                     <h3 className="text-lg font-semibold mb-2 text-center">Don Bigg</h3>
-                    <p className="text-sm text-gray-500">Description here</p>
+                    <p className=" text-black text-30 text-center ">Description here</p>
                   </div>
                 </ul>
             </div>
