@@ -4,7 +4,17 @@ import logo from "../../assets/logositeweb.png";
 
 
 
+
+
+
+
 export default  function Navbar () {
+
+
+
+    
+
+
 
     return (
 
@@ -30,10 +40,15 @@ export default  function Navbar () {
 
         </div>
 
+
+
+
        
 
     );
 }
+
+
 
 
 

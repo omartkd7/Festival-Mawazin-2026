@@ -1,5 +1,5 @@
 
-import flooter from "/Users/mac/React JS/Festival Mawazin 2026/src/assets/footer.png"
+import flooter from "/Users/mac/React JS/Festival Mawazin 2026/src/assets/spalchimage.png"
 
 function Fotetr () {
 
@@ -10,7 +10,7 @@ function Fotetr () {
 
             <div>
 
-                <img className=" w-500 justify-around mt-10 "  src={flooter}>
+                <img className=""  src={flooter}>
                 </img>
 
 

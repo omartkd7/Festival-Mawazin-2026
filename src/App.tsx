@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <Navbar / >
+    <Navbar  / >
     <Consrtcard />
     <ArtistCard / >
     <Fotetr />
@@ -16,7 +16,12 @@ function App() {
 
     </>
   )
+
+  
 }
+
+
+
 
 export default App
 
