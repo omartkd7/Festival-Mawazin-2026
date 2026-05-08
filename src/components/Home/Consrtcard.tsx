@@ -5,10 +5,10 @@ export default function Consrtcard (){
 
     return (
 
-        <section>
+        <section className="">
 
-            <div className="relative w-fit">
-              <img src={spalch} className="block  " />
+            <div className=" relative w-fit">
+              <img src={spalch} className="block " />
 
               <img src={data} className="w-200 mt-100 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" />
 
@@ -20,7 +20,6 @@ export default function Consrtcard (){
             </div>
 
         </section>
-
 
     )
 

@@ -8,11 +8,11 @@ export default function ArtistCard (){
 
     return (
 
-        <nav>
+        <nav className=" items-baseline  ">
 
-            <div  >
+            <div className="container" >
                 <br/>
-                <h2 className=" grid place-items-center  text-5xl ">Top Artist</h2>
+                <h2 className="  grid place-items-center  text-5xl ">Top Artist</h2>
                 <br/>
             </div>
 
